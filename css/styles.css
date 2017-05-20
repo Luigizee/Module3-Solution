@@ -5,3 +5,9 @@
   border: 2px solid red;
   background-color: gray;
 }
+
+/**Header**/
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
