@@ -25,6 +25,11 @@
 	font-size: 20px;
 }
 
+}
+.card-header{
+	text-align: center;	
+}
+
 .black{
 	background-color: black;
 	color: white;
