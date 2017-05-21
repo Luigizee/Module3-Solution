@@ -55,3 +55,16 @@
 	font-size: 20px;
 	font-style: italic;
 }
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a {
+	color: Blue;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: red;
+}
