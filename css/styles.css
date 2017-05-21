@@ -21,6 +21,11 @@ body {
   border: 2px solid black;
 }
 
+#collapsable-nav {
+	clear: both;
+	background-color: white;
+}
+
 /*#header {
 	margin-bottom: 50px;
 	color: Black;
