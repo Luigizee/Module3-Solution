@@ -17,25 +17,12 @@
   border: 1px solid black;
 }
 
-#nav-list{
-	margin-top: 10px;
-}
-
-#nav-list a{
-	color: #951C49;
-	text-align: center
-}
-
-#nav-list a:hover{
-	color: Blue;
-}
-
 #header {
 	text-align: center;
 	margin-bottom: 50px;
 	color: Black;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 }
