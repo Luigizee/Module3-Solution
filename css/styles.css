@@ -13,10 +13,6 @@
   margin-bottom: 0;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
-}
-
 #header {
 	text-align: center;
 	margin-bottom: 50px;
@@ -67,4 +63,8 @@
 
 #nav-list a:hover {
 	background: red;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid green;
 }
