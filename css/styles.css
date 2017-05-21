@@ -30,7 +30,16 @@
 	text-align: center;	
 }
 
-.black{
+.first{
+	background-color: gray;
+	color: black;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.second{
 	background-color: black;
 	color: white;
 	padding: 10px;
@@ -38,17 +47,10 @@
 	font-size: 20px;
 	font-style: italic;
 }
-.blue{
-	background-color: blue;
+
+.third{
+	background-color: black;
 	color: white;
-	padding: 10px;
-	margin-bottom: 20px;
-	font-size: 20px;
-	font-style: italic;
-}
-.yellow{
-	background-color: yellow;
-	color: black;
 	padding: 10px;
 	margin-bottom: 20px;
 	font-size: 20px;
