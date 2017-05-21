@@ -24,3 +24,28 @@
 	font-weight: bold;
 	font-size: 20px;
 }
+
+.black{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-style: italic;
+}
+.blue{
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-style: italic;
+}
+.yellow{
+	background-color: yellow;
+	color: black;
+	padding: 10px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-style: italic;
+}
