@@ -68,3 +68,7 @@
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid green;
 }
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+}
