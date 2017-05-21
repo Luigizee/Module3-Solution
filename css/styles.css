@@ -10,7 +10,6 @@ body {
 }
 
 .navbar-brand h1 { /* Page Name */
-  font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
   font-size: 1.5em;
   font-weight: bold;
@@ -30,7 +29,6 @@ body {
 }
 
 .first{
-	font-family: "Comic Sans MS", cursive, sans-serif;
 	background-color: gray;
 	color: black;
 	padding: 10px;
