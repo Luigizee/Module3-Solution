@@ -15,10 +15,22 @@ body {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
+  line-height: 0.75
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 2px solid black;
+	border: 2px solid black;
+}
+
+#nav-list a {
+	color: black;
+	font-size: 1.1em;
+	font-weight: bold;
+	border-bottom: 2px solid black;
 }
 
 #collapsable-nav {
@@ -60,20 +72,3 @@ body {
 	margin-bottom: 20px;
 	font-size: 20px;
 }
-
-#nav-list {
-	margin-top: 10px;
-}
-
-#nav-list a {
-	color: Blue;
-}
-
-#nav-list a:hover {
-	background: red;
-}
-
-.navbar-header button.navbar-toggle {
-	clear: both;
-}
-
